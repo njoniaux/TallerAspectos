@@ -9,3 +9,7 @@ https://i.imgur.com/2dQObHq.png
  
  Captura Segovia User created
  ![image](https://user-images.githubusercontent.com/73295045/120670281-e0571600-c455-11eb-84fd-cc67db21f3c0.png)
+ 
+ Captura Segovia del Log
+ ![image](https://user-images.githubusercontent.com/73295045/120670578-2d3aec80-c456-11eb-9cc3-130ccca5719b.png)
+
