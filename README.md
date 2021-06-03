@@ -14,4 +14,5 @@ Captura Jara User created
 
 
 Aspecto Nuevo
-![image](https://user-images.githubusercontent.com/68570465/120671427-fa452880-c456-11eb-9aea-9c45657a3825.png)
+![image](https://user-images.githubusercontent.com/68570465/120671548-1d6fd800-c457-11eb-8059-ace5ff0c1cef.png)
+
