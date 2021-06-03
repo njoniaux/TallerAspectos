@@ -11,3 +11,7 @@ UserCreatedJoaquinRivadeneira
 
 Captura Jara User created 
 ![Screenshot 2021-06-03 102505](https://user-images.githubusercontent.com/84399723/120670987-8efb5680-c456-11eb-8a87-d8c40837289a.png)
+
+
+Aspecto Nuevo
+![image](https://user-images.githubusercontent.com/68570465/120671427-fa452880-c456-11eb-9aea-9c45657a3825.png)
